@@ -17,7 +17,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Lista" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MatrizTraining" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TesteTime" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EnumAula1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Composition1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SocialMedia" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ClientOrder/ClientOrder" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
