@@ -1,17 +1,15 @@
 package application;
 
-import entities.Order;
-import entities.enums.OrderStatus;
-
+import entities.Orderr;
 
 
 import java.util.Date;
 
 public class EnumAula1 {
     public static void main(String[] args) {
-        Order order = new Order(1080, new Date(), OrderStatus.PENDING_PAYMENT);
+        Orderr orderr = new Orderr(1080, new Date(), OrderStatus.PENDING_PAYMENT);
 
-        System.out.println(order);
+        System.out.println(orderr);
 
         OrderStatus os1 = OrderStatus.DELIVERED;
 
